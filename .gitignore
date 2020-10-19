@@ -1,4 +1,4 @@
 .idea/
 config.yml
-server
+red-token
 db.sqlite

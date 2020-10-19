@@ -3,11 +3,11 @@ package main
 import (
 	"flag"
 	"fmt"
+	"github.com/jkulvichs-sandbox/red-token/config"
+	"github.com/jkulvichs-sandbox/red-token/logger"
+	"github.com/jkulvichs-sandbox/red-token/storage"
 	"os"
 	"os/signal"
-	"server/config"
-	"server/logger"
-	"server/storage"
 )
 
 func main() {

@@ -5,8 +5,8 @@ import (
 	yaml "gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"
-	"server/logger"
-	"server/storage"
+	"github.com/jkulvichs-sandbox/red-token/logger"
+	"github.com/jkulvichs-sandbox/red-token/storage"
 )
 
 // GenerateConfig - Makes default config in path

@@ -1,8 +1,8 @@
 package config
 
 import (
-	"server/logger"
-	"server/storage"
+	"github.com/jkulvichs-sandbox/red-token/logger"
+	"github.com/jkulvichs-sandbox/red-token/storage"
 )
 
 // Config - Configuration file structure

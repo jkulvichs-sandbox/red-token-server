@@ -1,4 +1,4 @@
-module server
+module github.com/jkulvichs-sandbox/red-token
 
 go 1.15
 
