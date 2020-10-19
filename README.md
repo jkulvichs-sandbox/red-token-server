@@ -6,7 +6,7 @@
 
 # RedToken :closed_lock_with_key:
 
-![RedToken Splash](assets/red-token-splash.jpg)
+![RedToken Splash](assets/red-token-splash.png)
 
 **The Secure Authorization Web Portal & Key-Value Storage** to link all of your services.
 
