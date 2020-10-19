@@ -2,11 +2,11 @@ package config
 
 import (
 	"fmt"
+	"github.com/jkulvichs-sandbox/red-token/logger"
+	"github.com/jkulvichs-sandbox/red-token/storage"
 	yaml "gopkg.in/yaml.v2"
 	"io/ioutil"
 	"os"
-	"github.com/jkulvichs-sandbox/red-token/logger"
-	"github.com/jkulvichs-sandbox/red-token/storage"
 )
 
 // GenerateConfig - Makes default config in path

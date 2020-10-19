@@ -3,6 +3,7 @@ package storage
 import (
 	"database/sql"
 	"fmt"
+	// SQLite driver
 	_ "github.com/mattn/go-sqlite3"
 )
 

@@ -1,11 +1,11 @@
 package storage
 
-// ConfStorage - DataBases configuration
+// ConfStorage - Storage's configuration
 type ConfStorage struct {
 	SQLite *ConfSQLiteDataBase `yaml:"sqlite,omitempty"`
 }
 
-// ConfStorage - Storage configuration
+// ConfSQLiteDataBase - SQLite configuration
 type ConfSQLiteDataBase struct {
 	Path   string  `yaml:"file"`
 	Cache  *string `yaml:"cache,omitempty"`
