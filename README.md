@@ -1,4 +1,4 @@
-![Repo Development Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
+![Repo Dev Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvichs-sandbox/red-token)
 ![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/jkulvichs-sandbox/red-token)](https://pkg.go.dev/github.com/jkulvichs-sandbox/red-token)
@@ -9,7 +9,7 @@
 
 ![RedToken Splash](assets/red-token-splash.png)
 
-**Secure Authorization Web Portal & Key-Value Storage Server** to link all of your services.
+> **Secure Authorization Web Portal & Key-Value Storage Server** to link all of your services.
 
 ## :bulb: Concept Keys
 
