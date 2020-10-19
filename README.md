@@ -8,5 +8,5 @@
 
 ![RedToken Splash](assets/red-token-splash.png)
 
-**The Secure Authorization Web Portal & Key-Value Storage** to link all of your services.
+> **The Secure Authorization Web Portal & Key-Value Storage** to link all of your services.
 
