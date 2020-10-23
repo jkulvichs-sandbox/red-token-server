@@ -1,6 +1,6 @@
 ![Repo Dev Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
 ![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvichs-sandbox/red-token-server)
-![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token-server)
+[![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token-server)](https://github.com/jkulvichs-sandbox/red-token-server/blob/master/LICENSE)
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/jkulvichs-sandbox/red-token-server)](https://pkg.go.dev/github.com/jkulvichs-sandbox/red-token-server)
 [![Go Report Card](https://goreportcard.com/badge/github.com/jkulvichs-sandbox/red-token-server)](https://goreportcard.com/report/github.com/jkulvichs-sandbox/red-token-server)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token-server)](https://github.com/jkulvichs-sandbox/red-token-server/commits/master)
