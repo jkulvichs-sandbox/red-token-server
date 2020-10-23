@@ -1,15 +1,15 @@
 ![Repo Dev Status](https://img.shields.io/badge/status-in%20dev-%23f44336)
-![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvichs-sandbox/red-token)
-![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token)
-[![PkgGoDev](https://pkg.go.dev/badge/github.com/jkulvichs-sandbox/red-token)](https://pkg.go.dev/github.com/jkulvichs-sandbox/red-token)
-[![Go Report Card](https://goreportcard.com/badge/github.com/jkulvichs-sandbox/red-token)](https://goreportcard.com/report/github.com/jkulvichs-sandbox/red-token)
-[![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token)](https://github.com/jkulvichs-sandbox/red-token/commits/master)
+![GitHub go.mod Go version](https://img.shields.io/github/go-mod/go-version/jkulvichs-sandbox/red-token-server)
+![GitHub](https://img.shields.io/github/license/jkulvichs-sandbox/red-token-server)
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/jkulvichs-sandbox/red-token-server)](https://pkg.go.dev/github.com/jkulvichs-sandbox/red-token)
+[![Go Report Card](https://goreportcard.com/badge/github.com/jkulvichs-sandbox/red-token-server)](https://goreportcard.com/report/github.com/jkulvichs-sandbox/red-token)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jkulvichs-sandbox/red-token-server)](https://github.com/jkulvichs-sandbox/red-token/commits/master)
 
-# :closed_lock_with_key: RedToken
+# :closed_lock_with_key: RedToken Server
 
-![RedToken Splash](assets/red-token-splash.png)
+**Secure Authorization Web Portal & Key-Value Storage Server** to link all of your own services.
 
-> **Secure Authorization Web Portal & Key-Value Storage Server** to link all of your services.
+This repo is a submodule for a main repo, which can be [found here](https://github.com/jkulvichs-sandbox/red-token).
 
 ## :bulb: Concept Keys
 
